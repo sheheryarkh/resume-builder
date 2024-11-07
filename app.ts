@@ -64,7 +64,7 @@ form.addEventListener("submit", function (event: Event) {
         btn2.addEventListener('click',function(){
           let btns = document.getElementById("btns") as HTMLDivElement
           btns.style.display ='none'
-window.print()
+resume.print()
 
           }
       
